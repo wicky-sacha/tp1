@@ -6,6 +6,7 @@
         "txt": "produit de test",
         "bain": 2,
         "surface": "500 m²",
+        "lits": "2",
         "img": "/public/card.jpg"
     },
     {
@@ -15,6 +16,7 @@
         "txt": "2ème produit de test",
         "bain": 2,
         "surface": "600 m²",
+        "lits": "5",
         "img": "/public/card2.jpg"
     },
     {
@@ -23,6 +25,7 @@
         "txt": "Dernier produit de test",
         "bain": 1,
         "surface": "700 m²",
+        "lits": "6",
         "img": "/public/card3.jpg"
     }
 ]

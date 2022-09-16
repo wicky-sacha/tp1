@@ -14,7 +14,7 @@
       </div>
       <hr class="my-2 border-t-2 border-indigo-100" />
       <div class="flex justify-between text-sm">
-        <div><bed class="inline-block align-top" /> {nbr lits}</div>
+        <div><bed class="inline-block align-top" /> {{ lits }}</div>
         <div><bath class="inline-block align-top" /> {{ bain }}</div>
         <div><size class="inline-block align-top" /> {{ surface }}</div>
       </div>

@@ -20,7 +20,7 @@
             :submit-attrs="{ classes: { input: 'bg-red-300 p-1 rounded' }
             }">
                 <FormKit name="nom" label="Nom" />
-                <FormKit name="prix" label="Prix" type="number" />
+                <FormKit name="price" label="Prix" type="name" />
                 <FormKit name="favori" label="Mettre en valeur" type="checkbox" wrapper-class="flex" />
                 <FormKit name="bain" label="Nombre de salle de bain" type="number" />
                 <FormKit name="surface" label="Surface m2" type="number" />
