@@ -22,7 +22,7 @@
                 <FormKit name="nom" label="nom" />
                 <FormKit name="prix" label="prix" type="number" />
                 <FormKit name="favori" label="mettre en valeur" type="checkbox" wrapper-class="flex" />
-            </FormKit>
+            </FormKit> 
         </div>
     </div>
 </template>
