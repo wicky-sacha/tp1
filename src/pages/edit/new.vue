@@ -1,13 +1,14 @@
 <script setup lang="ts">
     import { ref } from "@vue/reactivity";
-    import FormulaireOffreMaison from "src/components";
+    import Card from "../../components/card.vue";
+
     const maison = ref ({});
 </script>
 <template>
     <div>
         <div class="p-2">
             <h2 class="text-2xl">Résultat (Prévisualisation)</h2>
-            <FormulaireOffreMaison v-bind="maison" />
+            <Card v-bind="maison" />
         </div>
         <div class="p-2">
             <FormKit type="form" v-model="maison">
@@ -18,3 +19,5 @@
         </div>
     </div>
 </template>
+
+
