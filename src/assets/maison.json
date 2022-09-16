@@ -1,0 +1,28 @@
+[
+    {
+        "nom": "Maison 1",
+        "price": 3400,
+        "favoris": false,
+        "txt": "Maison 1",
+        "nbbath": 4,
+        "nbsize": "590 m²",
+        "img": "/public/card.jpg"
+    },
+    {
+        "nom": "Maison 2",
+        "price": 2907,
+        "favoris": false,
+        "txt": "Maison 2",
+        "nbbath": 4,
+        "nbsize": "470 m²",
+        "img": "/public/card2.jpg"
+    },
+    {
+        "nom": "Maison 3",
+        "price": 8596,
+        "txt": "Maison 3",
+        "nbbath": 3,
+        "nbsize": "230 m²",
+        "img": "/public/card3.jpg"
+    }
+]
