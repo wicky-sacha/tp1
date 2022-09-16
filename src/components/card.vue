@@ -63,11 +63,11 @@ defineProps ({
     img: {
       type: String,
     },
-    nbbath: {
+    bain: {
       type: String,
       default: "2 Bathrooms",
     },
-    nbsize: {
+    surface: {
       type: String,
       default: "6x7.5 m²",
     },
